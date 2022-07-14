@@ -99,4 +99,7 @@ p span a{
     .addr{
         padding: 0 2px;
     }
+    .skills{
+        margin-bottom: 2px;
+    }
 }
