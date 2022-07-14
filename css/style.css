@@ -93,4 +93,10 @@ p span a{
     .bg-color{
         height: 70px;
     }
+    address{
+        margin-bottom: 0;
+    }
+    .addr{
+        padding: 0 2px;
+    }
 }
