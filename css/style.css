@@ -86,7 +86,7 @@ p span a{
     font-size: 12px;
     padding: 2px;
 }
-@media (min-width: 478px) and (max-width: 768px) {
+@media (min-width: 360px) and (max-width: 768px) {
     .mbl{
         margin-bottom: 10px;
     }
